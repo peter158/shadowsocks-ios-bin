@@ -1,7 +1,10 @@
+用于自己捣鼓，fork自 https://github.com/shadowsocks/shadowsocks-iOS 
+
+
+
+
 Shadowsocks for iOS and OSX
 ===========================
-[![Build Status](https://travis-ci.org/shadowsocks/shadowsocks-iOS.svg?branch=master)](https://travis-ci.org/shadowsocks/shadowsocks-iOS)
-
 
 iOS
 -----
