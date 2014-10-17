@@ -121,7 +121,8 @@
     // ActionSheet
     [self initActionSheet];
 
-//    [self play];
+//    开启播放音乐
+    [self play];
 }
 
 - (void)didReceiveMemoryWarning {
@@ -612,6 +613,8 @@
     player.numberOfLoops = -1;
     [player play];
     [self becomeFirstResponder];
+    
+    NSLog(@"start to play music");
 }
 
 
